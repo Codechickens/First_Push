@@ -1,2 +1,2 @@
-user: bachdo/Codechickens\n
-emial: mateirudante@gnail.com
+user: bachdo/Codechickens
+email: mateirudante@gnail.com
