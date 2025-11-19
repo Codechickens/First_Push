@@ -1,15 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Task Manager</title>
-	<link rel="stylesheet" href="css/style.css">
-	
-</head>
 <body>
-<h1>Work Management</h1>
-<div id="app">
-	<!--Content will be loaded by JavaScript-->
-</div>
-<script src="src/app.is"></script>
-</body>
-<html>
+	<h1>Welcome to my profile</h1>
+	<p>Name: Bach Do</h1>
+	<p>Work name: Lucifer</p>
+	
+	<h2>Something about me</h2>
+	<p>Student ID: 251020905004</p>
+	<p>Email: mateirudante@gmail.com</p>
+	
