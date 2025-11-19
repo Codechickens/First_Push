@@ -1,3 +1,21 @@
 MSV:251020905004  
 email:mateirudante@gmail.com  
 edu mail:251020905004@st.pheinkaa-uni.edu.vn  
+
+cat > index.html << EOF
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Task Manager</title>
+	<link rel="stylesheet" href="css/style.css">
+	
+</head>
+<body>
+<h1>Work Management</h1>
+<div id="app">
+	<!--Content will be loaded by JavaScript-->
+</div>
+<script src="src/app.is"></script>
+</body>
+<html>
+EOF
